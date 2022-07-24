@@ -23,7 +23,7 @@ header {
     background-position:  center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 120vh;
+    min-height: 130vh;
     padding-top: 50px;
     position: relative;
 }
@@ -129,10 +129,7 @@ margin-top: 10%;
     top: 126%;
     cursor: pointer;
 }
-.banner-content:hover .price-5-round{
-    transform: rotate(360deg);
-    transition: 0.6s ease-in;
-} 
+ 
 .price-5-text{
     width: 140px;
     height: 140px;
